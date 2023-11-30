@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.codewars.com/users/juliallysova/badges/large"></a>
+<a href="https://www.codewars.com/users/juliallysova"> <img src="https://www.codewars.com/users/juliallysova/badges/large"/></a>
+
 
